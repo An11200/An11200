@@ -1,10 +1,5 @@
 # Bike Sharing Demand prediction Project for the hourly dataset
-# 
-# Prerequisites
-# - Knowledge of basic Python
-# - Statistics
-# - Data Processing
-# - Multiple Linear regression
+
 
 
 # ----------------------------------------------
